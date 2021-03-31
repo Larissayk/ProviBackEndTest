@@ -12,18 +12,18 @@
   "author": "Larissa K.",
   "license": "ISC",
   "dependencies": {
-    "apidoc": "^0.20.0",
+    "apidoc": "^0.20.1",
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.8.11",
+    "mongoose": "^5.12.2",
     "mongoose-currency": "^0.2.0",
-    "node": "^13.7.0",
-    "node-fetch": "^2.6.0"
+    "node": "^13.14.0",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "jest": "^25.1.0",
-    "nodemon": "^2.0.2",
+    "jest": "^25.5.4",
+    "nodemon": "^2.0.7",
     "supertest": "^4.0.2"
   },
   "jest": {
